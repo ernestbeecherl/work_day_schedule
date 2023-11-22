@@ -7,7 +7,7 @@ var currentHour = parseInt(dayjs().format("HH"));
 $(document).ready(function () {
   function updateTime() {
     var currentTimeElement = document.getElementById("current-time");
-    var currentTime = dayjs().format("dddd, MMMM D, YYYY h:mm:ss A");
+    var currentTime = dayjs().format("dddd, MMMM D, YYYY");
     currentTimeElement.innerHTML = currentTime;
   }
 
