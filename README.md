@@ -8,4 +8,4 @@ by modifying starter code. This app will run in the browser and feature dynamica
 
 
 # Links 
-https://github.com/ernestbeecherl/work_day_schedule/
+https://ernestbeecherl.github.io/work_day_schedule/
